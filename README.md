@@ -15,7 +15,7 @@ A collection of Flutter projects **looking for contributors**, organized by cate
 ## Add / Remove / Update
 ### Add
 1. Please star this repository
-2. [Open PR](https://github.com/jungwuk-ryu/lets-contribute-flutter/compare?expand=1) using the **Add Project** template
+2. [Open PR](https://github.com/jungwuk-ryu/lets-contribute-flutter/compare?expand=1)
 
 ### Remove / Update
 Please raise a PR
