@@ -99,6 +99,11 @@ Tags (free form)
 - Please keep the 5-column table format.
 - For larger structural changes (new/merged categories), open an issue first.
 
+### Row template
+```md
+| [RepoName](https://github.com/owner/repo) | Short description | Tag1 · Tag2 | [good first issue](https://github.com/owner/repo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) · [help wanted](https://github.com/owner/repo/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) | ![last-commit](https://img.shields.io/github/last-commit/owner/repo) ![stars](https://img.shields.io/github/stars/owner/repo) |
+```
+
 ---
 
 ## Credits
