@@ -2,12 +2,12 @@
 
 A collection of Flutter projects **looking for contributors**, organized by category.
 
-[Add Project](https://github.com/jungwuk-ryu/lets-contribute-flutter/issues/new?template=add-project.yml)
+[Add Project](https://github.com/jungwuk-ryu/lets-contribute-flutter/compare?expand=1)
 
 ---
 
 ## Overview
-- **Maintainers**: Submit a simple issue to add, remove, or update project info.
+- **Maintainers**: Submit a simple PR to add, remove, or update project info.
 - **Contributors**: Explore categorized projects and jump directly to issues.
 
 ---
@@ -15,7 +15,7 @@ A collection of Flutter projects **looking for contributors**, organized by cate
 ## Add / Remove / Update
 ### Add
 1. Please star this repository
-2. [Open Issue](https://github.com/jungwuk-ryu/lets-contribute-flutter/issues/new?template=add-project.yml)
+2. [Open PR](https://github.com/jungwuk-ryu/lets-contribute-flutter/compare?expand=1) using the **Add Project** template
 
 ### Remove / Update
 Please raise a PR
