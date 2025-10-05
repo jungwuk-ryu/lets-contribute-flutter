@@ -35,58 +35,40 @@ Tags (free form)
 ## Project List
 
 ### Apps
-<details>
-<summary>List</summary>
 
 | Project | Description | Tags | Issues | Activity |
 |---|---|---|---|---|
 | [DutyIt](https://github.com/jungwuk-ryu/duty-it) | A Flutter app for discovering, filtering, and managing nursing-related academic events (conferences, seminars, training). Supports calendar integration, reminders, and Google Sign-In. Built with Flutter, Dart, and Firebase. | flutter, dart, firebase, calendar, auth, notifications, healthcare, nursing | [good first issue](https://github.com/jungwuk-ryu/duty-it/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) · [help wanted](https://github.com/jungwuk-ryu/duty-it/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) | ![last-commit](https://img.shields.io/github/last-commit/jungwuk-ryu/duty-it) ![stars](https://img.shields.io/github/stars/jungwuk-ryu/duty-it) |
-</details>
 
 ### Packages
-<details>
-<summary>List</summary>
 
 | Project | Description | Tags | Issues | Activity |
 |---|---|---|---|---|
 
-</details>
 
 ### Plugins
-<details>
-<summary>List</summary>
 
 | Project | Description | Tags | Issues | Activity |
 |---|---|---|---|---|
 
-</details>
 
 ### Samples
-<details>
-<summary>List</summary>
 
 | Project | Description | Tags | Issues | Activity |
 |---|---|---|---|---|
 
-</details>
 
 ### Tools & Infra
-<details>
-<summary>List</summary>
 
 | Project | Description | Tags | Issues | Activity |
 |---|---|---|---|---|
 
-</details>
 
 ### Uncategorized
-<details>
-<summary>List</summary>
 
 | Project | Description | Tags | Issues | Activity |
 |---|---|---|---|---|
 
-</details>
 
 ---
 
